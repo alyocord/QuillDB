@@ -1,0 +1,31 @@
+{
+  "name": "quilldb",
+  "version": "1.0.0",
+  "description": "A NoSQL database system",
+  "main": "index.js",
+  "dependencies": {
+    "quilldb": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyocord/QuillDB.git"
+  },
+  "keywords": [
+    "nosql",
+    "database",
+    "sql",
+    "mysql",
+    "javascript",
+    "node"
+  ],
+  "author": "Alyocord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alyocord/QuillDB/issues"
+  },
+  "homepage": "https://github.com/alyocord/QuillDB#readme"
+}
